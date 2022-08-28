@@ -84,3 +84,4 @@ const ancientsData = [
 ]
 
 export default ancientsData
+console.log (ancientsData);
